@@ -17,7 +17,6 @@
                 <p>{{$items['title']}}</p> -->
             @endforeach
         </div>
-
     </div>
     <!--  end container -->
 
