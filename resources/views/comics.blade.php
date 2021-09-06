@@ -9,7 +9,7 @@
                     <div class="card mb-2 border-light" style="width: 13rem;">
                         <img class="card-img-top" src="{{$items['thumb']}}" alt="Card image cap">
                         <div class="card-body">
-                            <h5 class="card-title">{{$items['series']}}</h5>
+                            <h5 class="card-title text-center">{{$items['series']}}</h5>
                         </div>
                     </div>
                 </div>
