@@ -63,6 +63,9 @@ header nav ul li a {
   text-decoration: none;
   font-size: 20px;
 }
+.products a:hover {
+  color: white;
+}
 
 footer {
   background-image: url(../img/footer-bg.jpg);
