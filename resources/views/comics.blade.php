@@ -9,9 +9,7 @@
                     <div class="card" style="width: 13rem;">
                         <img class="card-img-top" src="{{$items['thumb']}}" alt="Card image cap">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">{{$items['series']}}</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">{{$items['series']}}</h5>
                         </div>
                     </div>
                 </div>
