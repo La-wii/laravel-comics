@@ -6,7 +6,7 @@
         <div class="row">
             @foreach ($comics as $items)
                 <div class="col-3">
-                    <div class="card" style="width: 13rem;">
+                    <div class="card mb-2 border-light" style="width: 13rem;">
                         <img class="card-img-top" src="{{$items['thumb']}}" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">{{$items['series']}}</h5>
