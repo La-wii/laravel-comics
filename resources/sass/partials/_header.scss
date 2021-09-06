@@ -38,3 +38,21 @@ header{
     background-size: cover;
     height: 300px;
 }
+
+.products{
+  background: #0c7ceb;
+  height: 200px;  
+  padding: 50px;
+  font-size: 20px;
+    .prod-img{
+      object-fit: cover;
+      height:50px;
+      padding: 0 20px;
+      vertical-align: middle;
+    }
+    a{
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+    }
+}
