@@ -21,7 +21,6 @@
     <!--  end container -->
 
     <div class="products">
-
         <img src="{{asset('img/buy-comics-digital-comics.png')}}" alt="" class="prod-img">
         <a href="#">Digital Comics</a>
 
